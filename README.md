@@ -1,6 +1,7 @@
 # Patient Health Database
 
 Author: Winnie Lu
+Referenced from BME547 David Ward
 
 ## Purpose
 
@@ -17,3 +18,5 @@ The database will contain:
 * Test Results
     1. HDL
     2. LDL
+
+### Acknowledgements
