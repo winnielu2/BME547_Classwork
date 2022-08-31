@@ -1,1 +1,3 @@
-# BME547_Classwork
+# Patient Health Database
+
+Author: Winnie Lu
