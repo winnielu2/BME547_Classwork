@@ -4,7 +4,7 @@ Author: Winnie Lu
 
 ## Purpose
 
-The code in this repository will run a patient health databse.  
+The code in this repository will run a patient health database.  
 The code is written in Python.
 
 ## Specifications
