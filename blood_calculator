@@ -8,4 +8,8 @@ def interface():
         if choice == "9":
             return
 
+def input_HDL():
+    inp = input("Enter HDL value:")
+    return int(inp)
+
 interface()
