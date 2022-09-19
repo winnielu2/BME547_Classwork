@@ -79,4 +79,5 @@ def output_LDL_result(ldl_value, charac):
 def output_total_result(total_value, charac):
     print("The results for a total cholesterol value of {} is {}".format(total_value, charac))
 
-interface()
+if __name__ == "__main__":
+    interface()
